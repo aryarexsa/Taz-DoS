@@ -1,0 +1,4 @@
+# mau recode requirements juga? Kebangetan lo lammer!
+colorama
+termcolor
+requests
